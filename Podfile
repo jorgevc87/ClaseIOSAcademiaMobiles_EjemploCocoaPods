@@ -6,5 +6,6 @@ target 'Ejemplos CocoaPods' do
   use_frameworks!
 
   # Pods for Ejemplos CocoaPods
+pod 'IQKeyboardManagerSwift'
 
 end
